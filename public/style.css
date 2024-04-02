@@ -1,0 +1,19 @@
+body,html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    /* Horizontally center content */
+    align-items: center;
+    background-color: black;
+}
+
+.containers {
+    margin: auto;
+    border: 2px solid black;
+
+}
+
+img{
+    padding: 10px;
+}
